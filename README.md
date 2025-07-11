@@ -8,35 +8,10 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
   <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/2.png" width="500" style="border: 1px solid #000;"/>
 </p>
 
-<h2 align="center">🧐 Features</h2>
-
-
-> [Cheats]
-  - Infinite Ammo<br>
-  - GodMod (Infinite Health)
-> [Visuals]
-  - Wireframe Wallhack<br>
-  - Asus Wallhack (Buggy)
-  - Draw Decals
-  - Luxels
-  - Skeleton ESP
-  - Minecraft Mod
-  - Tracer ESP
-> [Debug]
-  - Weapon Debug
-  - Box Debug Entity
-  - Draw Debug Overlay
-  - Draw Render Box
-  - Debug Vgui Panel
-  - Draw Static Props
-  - Draw World
-  - Draw Footsteps
 ## 🧐 Features
-
 ### [Cheats]
 - Infinite Ammo
 - GodMod (Infinite Health)
-
 ### [Visuals]
 - Wireframe Wallhack
 - Asus Wallhack (Buggy)
@@ -45,7 +20,6 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
 - Skeleton ESP
 - Minecraft Mod
 - Tracer ESP
-
 ### [Debug]
 - Weapon Debug
 - Box Debug Entity
@@ -60,9 +34,8 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
 ```bash
 Net Framework v4.7.2
 ```
-
 🧑🏻‍💻 Usage
-js```
+```js
 1) Open Left4Dead2.exe
 2) In game just start the trainer
 3) Press F1 to toggle menu

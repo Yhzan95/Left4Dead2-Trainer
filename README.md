@@ -6,7 +6,7 @@ way we don't need to get "sv_cheats 1" to get this tool worked. Be aware, this t
 vac3 secured servers or you will get banned. This code is pretty simple, need to be improved like: PatternScan, loop check though every chapters/maps...
 
 ## 🧐 Features
-> [Cheats]
+* [Cheats]
 - Infinite Ammo
 - GodMod (Infinite Health) 
 > [Visuals]
@@ -41,9 +41,9 @@ Net Framework v4.7.2
 ```
         
 ## 🙇 Acknowledgements      
-- [Drakula.Csharp]([https://draculatheme.com](https://github.com/Yhzan95/Drakula.Csharp)) [Csharp Theme]
+- [Drakula.Csharp](https://github.com/Yhzan95/Drakula.Csharp) [Csharp Theme]
 - [Awesome README](https://readmi.xyz/editor) [Readme.md]
-- [UknownCheats](https://www.unknowncheats.me/) [Read/Write Memory class]
+- [Unknown-Cheats](https://www.unknowncheats.me/) [Read/Write Memory class]
 
 ## 🍰 Contributing    
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** and help me too to improve my code.

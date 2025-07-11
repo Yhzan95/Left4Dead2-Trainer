@@ -31,48 +31,60 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
   - Draw Static Props
   - Draw World
   - Draw Footsteps
-🛠️ Install Dependencies
-  <code>Net Framework v4.7.2</code>
+## 🧐 Features
+
+### [Cheats]
+- Infinite Ammo
+- GodMod (Infinite Health)
+
+### [Visuals]
+- Wireframe Wallhack
+- Asus Wallhack (Buggy)
+- Draw Decals
+- Luxels
+- Skeleton ESP
+- Minecraft Mod
+- Tracer ESP
+
+### [Debug]
+- Weapon Debug
+- Box Debug Entity
+- Draw Debug Overlay
+- Draw Render Box
+- Debug Vgui Panel
+- Draw Static Props
+- Draw World
+- Draw Footsteps
+
+## 🛠️ Install Dependencies
+```bash
+Net Framework v4.7.2
+```
 
 🧑🏻‍💻 Usage
-  <code>1) Open Left4Dead2.exe<br>
-  2) In game just start the trainer<br>
-  3) Press F1 for toggle menu<br>
-  4) Profit</code>
-
+js```
+1) Open Left4Dead2.exe
+2) In game just start the trainer
+3) Press F1 to toggle menu
+4) Profit
+```
 
 🙇 Acknowledgements
-
-
-  - <a href="https://github.com/Yhzan95/Drakula.Csharp">Drakula.Csharp [Csharp Theme]
-  - <a href="https://readmi.xyz/editor">Awesome README [Readme.md]
-  - <a href="https://www.unknowncheats.me/">Unknown-Cheats [Read/Write Memory class]
-
+Drakula.Csharp [Csharp Theme]
+Awesome README [Readme.md]
+Unknown-Cheats [Read/Write Memory class]
 
 🍰 Contributing
-
-
-  Contributions are what make the open source community such an amazing place to learn, inspire, and create.<br>
-  Any contributions you make are <strong>greatly appreciated</strong> and help me too to improve my code.
-
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated and help me improve my code.
 
 ❤️ Support
-
-
-  A simple star to this project repo is enough to keep me motivated for more open source projects.
-
+A simple star to this project repo is enough to keep me motivated for more open source projects.
 
 🙇 Author
-
-
-  Yhzan95
-  Email: <a href="mailto:Yhzan95@protonmail.com">Yhzan95@protonmail.com
-
+Yhzan95
+Email: Yhzan95@protonmail.com
 
 ➤ License
-
-
-  Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.
-
+Distributed under the MIT License. See LICENSE for more information.
 
         

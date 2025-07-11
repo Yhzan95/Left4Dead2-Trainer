@@ -10,76 +10,69 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
 
 <h2 align="center">🧐 Features</h2>
 
-<p align="center">
-  <strong>[Cheats]</strong><br>
+
+> [Cheats]
   - Infinite Ammo<br>
-  - GodMod (Infinite Health)<br>
-  <strong>[Visuals]</strong><br>
+  - GodMod (Infinite Health)
+> [Visuals]
   - Wireframe Wallhack<br>
-  - Asus Wallhack (Buggy)<br>
-  - Draw Decals<br>
-  - Luxels<br>
-  - Skeleton ESP<br>
-  - Minecraft Mod<br>
-  - Tracer ESP<br>
-  <strong>[Debug]</strong><br>
-  - Weapon Debug<br>
-  - Box Debug Entity<br>
-  - Draw Debug Overlay<br>
-  - Draw Render Box<br>
-  - Debug Vgui Panel<br>
-  - Draw Static Props<br>
-  - Draw World<br>
+  - Asus Wallhack (Buggy)
+  - Draw Decals
+  - Luxels
+  - Skeleton ESP
+  - Minecraft Mod
+  - Tracer ESP
+> [Debug]
+  - Weapon Debug
+  - Box Debug Entity
+  - Draw Debug Overlay
+  - Draw Render Box
+  - Debug Vgui Panel
+  - Draw Static Props
+  - Draw World
   - Draw Footsteps
-</p>
-
-<h2 align="center">🛠️ Install Dependencies</h2>
-
-<p align="center">
+🛠️ Install Dependencies
   <code>Net Framework v4.7.2</code>
-</p>
 
-<h2 align="center">🧑🏻‍💻 Usage</h2>
-
-<p align="center">
+🧑🏻‍💻 Usage
   <code>1) Open Left4Dead2.exe<br>
   2) In game just start the trainer<br>
   3) Press F1 for toggle menu<br>
   4) Profit</code>
-</p>
 
-<h2 align="center">🙇 Acknowledgements</h2>
 
-<p align="center">
-  - <a href="https://github.com/Yhzan95/Drakula.Csharp">Drakula.Csharp</a> [Csharp Theme]<br>
-  - <a href="https://readmi.xyz/editor">Awesome README</a> [Readme.md]<br>
-  - <a href="https://www.unknowncheats.me/">Unknown-Cheats</a> [Read/Write Memory class]
-</p>
+🙇 Acknowledgements
 
-<h2 align="center">🍰 Contributing</h2>
 
-<p align="center">
+  - <a href="https://github.com/Yhzan95/Drakula.Csharp">Drakula.Csharp [Csharp Theme]
+  - <a href="https://readmi.xyz/editor">Awesome README [Readme.md]
+  - <a href="https://www.unknowncheats.me/">Unknown-Cheats [Read/Write Memory class]
+
+
+🍰 Contributing
+
+
   Contributions are what make the open source community such an amazing place to learn, inspire, and create.<br>
   Any contributions you make are <strong>greatly appreciated</strong> and help me too to improve my code.
-</p>
 
-<h2 align="center">❤️ Support</h2>
 
-<p align="center">
+❤️ Support
+
+
   A simple star to this project repo is enough to keep me motivated for more open source projects.
-</p>
 
-<h2 align="center">🙇 Author</h2>
 
-<p align="center">
-  <strong>Yhzan95</strong><br>
-  Email: <a href="mailto:Yhzan95@protonmail.com">Yhzan95@protonmail.com</a>
-</p>
+🙇 Author
 
-<h2 align="center">➤ License</h2>
 
-<p align="center">
+  Yhzan95
+  Email: <a href="mailto:Yhzan95@protonmail.com">Yhzan95@protonmail.com
+
+
+➤ License
+
+
   Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.
-</p>
+
 
         

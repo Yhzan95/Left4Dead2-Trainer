@@ -8,7 +8,7 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
   <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/2.png" width="500" style="border: 1px solid #000;"/>
 </p>
 
-
+<p align="center">
 ## 🧐 Features
 * [Cheats]
 - Infinite Ammo
@@ -35,6 +35,7 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
 ```bash
 Net Framework v4.7.2
 ```
+</p>
 
 ## 🧑🏻‍💻 Usage
 ```js

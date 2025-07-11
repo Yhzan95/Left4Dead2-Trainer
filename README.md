@@ -42,22 +42,17 @@ Net Framework v4.7.2
 4) Profit
 ```
 
-🙇 Acknowledgements
-Drakula.Csharp [Csharp Theme]
-Awesome README [Readme.md]
-Unknown-Cheats [Read/Write Memory class]
+## 🙇 Acknowledgements      
+- [DrakulaCsharp Theme](https://github.com/Yhzan95/Drakula.Csharp)
+- [Memory Read/Write Class - Unknown-Cheats](https://www.unknowncheats.me/)
+- [Awesome README](https://readmi.xyz/editor)
 
-🍰 Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated and help me improve my code.
+## 🍰 Contributing    
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** and help me too to improve my code.
 
-❤️ Support
-A simple star to this project repo is enough to keep me motivated for more open source projects.
-
-🙇 Author
-Yhzan95
-Email: Yhzan95@protonmail.com
-
-➤ License
-Distributed under the MIT License. See LICENSE for more information.
+## ❤️ Support  
+A simple star to this project repo is enough to keep me motivated for more open source project.
+        
+## 🙇 Author
 
         

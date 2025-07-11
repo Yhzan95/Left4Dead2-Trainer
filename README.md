@@ -44,7 +44,7 @@ Net Framework v4.7.2
 
 ## 🙇 Acknowledgements      
 - [DrakulaCsharp Theme](https://github.com/Yhzan95/Drakula.Csharp)
-- [Memory Read/Write Class - Unknown-Cheats](https://www.unknowncheats.me/)
+- [Memory Read/Write Class - UnknownCheats](https://www.unknowncheats.me/)
 - [Awesome README](https://readmi.xyz/editor)
 
 ## 🍰 Contributing    
@@ -54,5 +54,10 @@ Contributions are what make the open source community such an amazing place to b
 A simple star to this project repo is enough to keep me motivated for more open source project.
         
 ## 🙇 Author
+#### Yhzan95
+- Email: [Yhzan95@protonmail.com]()
+        
+## ➤ License
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
         

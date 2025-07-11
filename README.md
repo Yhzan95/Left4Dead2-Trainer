@@ -2,7 +2,7 @@
 # <p align="center">Left4Dead2 Trainer</p>
 
   <p align="center">
-  <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/1.png" width="200" style="border: 1px solid #000;"/>
+  <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/1.png" width="400" style="border: 1px solid #000;"/>
   <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/2.png" width="200" style="border: 1px solid #000;"/>
   <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/3.png" width="200" style="border: 1px solid #000;"/>
   <img src="https://github.com/Yhzan95/Left4Dead2-Trainer/blob/main/Images/4.png" width="200" style="border: 1px solid #000;"/>

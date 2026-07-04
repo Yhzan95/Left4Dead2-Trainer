@@ -43,6 +43,9 @@ Net Framework v4.7.2
 4) Profit
 ```
 
+## ⚖️ Disclaimer
+> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
+
 ## 🙇 Acknowledgements      
 - [DrakulaCsharp Theme](https://github.com/Yhzan95/Drakula.Csharp)
 - [Memory Read/Write Class - UnknownCheats](https://www.unknowncheats.me/)

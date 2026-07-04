@@ -49,7 +49,6 @@ Net Framework v4.7.2
 ## 🙇 Acknowledgements      
 - [DrakulaCsharp Theme](https://github.com/Yhzan95/Drakula.Csharp)
 - [Memory Read/Write Class - UnknownCheats](https://www.unknowncheats.me/)
-- [Awesome README](https://readmi.xyz/editor)
 
 ## ❤️ Support  
 If you like this project, don't forget to leave a star on GitHub. Your support is greatly appreciated!

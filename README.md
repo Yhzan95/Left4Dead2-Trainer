@@ -1,6 +1,6 @@
 
 # <p align="center">Left4Dead2 Trainer</p>
-Left4Dead2 Trainer is a simple Poc trainer using read and write memory. I was able to get static adresses from console in game commands. In that
+Left4Dead2 Trainer is a simple Poc trainer using read and write memory (External). I was able to get static adresses from console in game commands. In that
 way we don't need to get "sv_cheats 1" enabled on the server to get this tool worked. Be aware, this tool is for purpose only and research don't and never ever use it on
 vac3 secured servers or you will get banned. This code is pretty simple, need to be improved like: PatternScan, loop check though every chapters/maps...
   <p align="center">

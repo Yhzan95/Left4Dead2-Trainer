@@ -29,6 +29,7 @@ vac3 secured servers or you will get banned. This code is pretty simple, need to
 - Draw Static Props
 - Draw World
 - Draw Footsteps
+### [CheatEngine table included]
 
 ## 🛠️ Install Dependencies
 ```bash
@@ -47,11 +48,8 @@ Net Framework v4.7.2
 - [Memory Read/Write Class - UnknownCheats](https://www.unknowncheats.me/)
 - [Awesome README](https://readmi.xyz/editor)
 
-## 🍰 Contributing    
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** and help me too to improve my code.
-
 ## ❤️ Support  
-A simple star to this project repo is enough to keep me motivated for more open source project.
+If you like this project, don't forget to leave a star on GitHub. Your support is greatly appreciated!
         
 ## 🙇 Author
 #### Yhzan95
